@@ -1,0 +1,16 @@
+# Visual Studio and C# .gitignore
+.vs/
+*.dbmdl
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+bin/
+obj/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
